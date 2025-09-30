@@ -27,18 +27,11 @@ public interface ApiCallInterface {
 
     @PostExchange("/contracts")
     void save(@RequestBody ContractRequestDTO contrato);
-//
-//    @PostExchange("/status")
-//    void status(@RequestBody FinalCheckDTO contrato);
 
     @PutExchange("/contracts/{id}")
     String update(@RequestBody ContractRequestDTO contrato, Integer Id);
 
     @GetExchange("/contracts/{id}")
     ContractResponseDTO getContract(@PathVariable("id") UUID Id);
-
-//
-//    @GetExchange("/getContrato/{id}")
-//    String getContrato(@PathVariable("id") String id);
 
 }

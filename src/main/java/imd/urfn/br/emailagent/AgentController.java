@@ -5,7 +5,6 @@ import com.embabel.agent.core.AgentPlatform;
 import com.embabel.agent.core.AgentProcess;
 import com.embabel.agent.core.ProcessOptions;
 import com.embabel.agent.domain.io.UserInput;
-import imd.urfn.br.emailagent.domain.Email;
 import imd.urfn.br.emailagent.domain.EmailResponse;
 import imd.urfn.br.emailagent.dto.EmailCallbackRequestDTO;
 import org.springframework.http.ResponseEntity;
@@ -128,34 +127,6 @@ public class AgentController {
         return ResponseEntity.ok(agentProcess.toString());
     }
 }
-/*
-*
-*
-        model.addAttribute("travelBrief", travelBrief);
-        new GenericProcessingValues(
-                agentProcess,
-                "Planning your journey",
-                travelBrief.getBrief(),
-                "travelPlan",
-                "journey-plan"
-        ).addToModel(model);
-
-        return "common/processing";
-*
-        Agent agent = agentPlatform.agents().stream()
-                .filter(a -> a.getName().toLowerCase().contains("trip"))
-                .findFirst()
-                .orElseThrow(() -> new IllegalStateException("No travel agent found. Please ensure the tripper agent is registered."));
-
-        AgentProcess agentProcess = agentPlatform.createAgentProcessFrom(
-                agent,
-                ProcessOptions.builder()
-                        .verbosity(new Verbosity(true, true,false, false))
-                        .budget(new Budget(Budget.DEFAULT_TOKEN_LIMIT * 3, 0, 0)).build()
-                ,
-                travelBrief, travelers
-        );
-* */
 
 
 

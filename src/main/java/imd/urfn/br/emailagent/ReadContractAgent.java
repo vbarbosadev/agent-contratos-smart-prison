@@ -21,14 +21,15 @@ import java.util.UUID;
 @Agent(
         name = "Contract agent",
         description = "Create a Contrato based on path from user input")
-public class AgentTest {
+public class ReadContractAgent {
 
     @Autowired
     VectorStore vectorStore;
     private final PdfReader pdfReader;
     private final ApiCallInterface apiCall;
 
-    public AgentTest(PdfReader pdfReader, ApiCallInterface apiCall) {
+
+    public ReadContractAgent(PdfReader pdfReader, ApiCallInterface apiCall) {
         this.pdfReader = pdfReader;
         this.apiCall = apiCall;
     }
