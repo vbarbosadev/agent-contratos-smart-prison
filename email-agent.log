@@ -1,0 +1,127 @@
+1757705838305:tools
+1757712025487:help
+1757712036301:tools
+1757714447977:x 'use createjson agent to parse this pdf to string: file:///C:/Users/vinicius/Downloads/resumoFMC22025_2.pdf'
+1757714572042:x 'parse this pdf to string | path: "C:/Users/vinicius/Downloads/resumoFMC22025_2.pdf"'
+1757714691799:x 'parse the pdf content for string | path: file:///C:/Users/vinicius/Downloads/resumoFMC22025_2.pdf"'
+1757714781404:x 'how tools you can use'
+1757714824184:x 'using a tool configured, parse the pdf content for string | path: file:///C:/Users/vinicius/Downloads/resumoFMC22025_2.pdf"'
+1757719173135:tools
+1757780651117:tool-state
+1757780653503:help
+1757780664504:tool-stats
+1757780667626:clear
+1757780669559:cls
+1757780772281:x 'parse this pdf to string with pdftool, path: C:\\Users\\vinicius\\Documents\\developer\\smart-prision\\email-agent\\src\\main\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757780878900:x 'parse this pdf to string with pdftool, path: C:/Users/vinicius/Downloads/Resolu%C3%A7%C3%B5es%20-%20Exerc%C3%ADcios%20FMC2%20PROVA.pdf'
+1757781172604:x 'parse this pdf to string with pdftool, path: "C:/Users/vinicius/Downloads/Resolu%C3%A7%C3%B5es%20-%20Exerc%C3%ADcios%20FMC2%20PROVA.pdf"'
+1757781766543:x 'parse this pdf to string with pdftool, path: "https://precalculojlle.paginas.ufsc.br/files/2018/11/Coletanea_Exercicios_Matematica_Basica.pdf"'
+1757783389428:x 'parse this pdf to string with pdftool, path: "https://www.ime.unicamp.br/~chico/ma091verao/ma091_ex4.pdf"'
+1757783443042:x 'embabel> x '
+1757783476332:x 'parse this pdf to string with pdftool, path: "https://www.ime.unicamp.br/~chico/ma091verao/ma091_ex4.pdf" and tell what tool you call or use'
+1757783515365:x 'parse this pdf to string, path: "https://www.ime.unicamp.br/~chico/ma091verao/ma091_ex4.pdf" and tell what tool you call or use'
+1757806876427:x 'parse this pdf to string with pdftool, path: "https://www.ime.unicamp.br/~chico/ma091verao/ma091_ex4.pdf" and tell what tool you call or use'
+1757807039523:x 'parse this pdf to string with pdftool, path: "https://www.ime.unicamp.br/~chico/ma091verao/ma091_ex4.pdf" and tell what tool you call or use with the tool description'
+1757816874648:help
+1757816885630:show-options
+1757816900710:set-options
+1757816935899:set-options 'verbosity.showPrompts=true'
+1757816952904:set-options 'verbosity.showPrompts=True'
+1757817282451:show-options
+1757817454240:help
+1757817463310:help set option
+1757817480153:stacktrace
+1757817491793:set-options
+1757817556046:set-options '"verbosity" : {\n"showPrompts" : true'
+1757817562158:stacktrace
+1757817882091:set-options ]--verbose '{"verbosity" : { "showPrompts" : true}}'
+1757817890625:embabel> set-options ]--verbose '{"verbosity" : { "showPrompts" : true}}'
+1757817905003:set-options --verbose '{"verbosity" : { "showPrompts" : true}}'
+1757817916870:set-options '{"verbosity" : { "showPrompts" : true}}'
+1757817933354:set-options --verbose '{"verbosity" : { "showPrompts" : true}}'
+1757817941975:stacktarce
+1757817949158:set-options --verbose '{"verbosity" : { "showPrompts" : true}}'
+1757817952981:stacktrace
+1757817988518:set-options showPrompts true
+1757817995280:stacktrace
+1757818013659:show-options
+1757818153890:set-options verbosity.showPrompts=true
+1757818164770:stacktrace
+1757818212810:set-options --key verbosity.showPrompts --value true
+1757818226163:set-options --help
+1757818262467:set-options --show-Prompts
+1757818327128:set-options
+1757818349989:set-options --verbosity
+1757818349993:--p true
+1757818365301:set-options --
+1757818371257:set-options --help
+1757818400668:set-options --showPrompts = true
+1757818416862:set-options --showPrompts true
+1757818436120:x 'parse this pdf to string with pdftool, path: "https://www.ime.unicamp.br/~chico/ma091verao/ma091_ex4.pdf" and tell what tool you call or use'
+1757891840671:aaset-options --showPrompts true
+1757891852440:set-options --showPrompts true
+1757891861939:x 'parse this pdf to string with pdftool, path: "https://www.ime.unicamp.br/~chico/ma091verao/ma091_ex4.pdf" and tell what tool you call or use'
+1757891912204:x 'parse this pdf to string, path: "https://www.ime.unicamp.br/~chico/ma091verao/ma091_ex4.pdf"'
+1757892012249:x 'parse this pdf to string with pdftool, path: "https://www.ime.unicamp.br/~chico/ma091verao/ma091_ex4.pdf" and tell what tool you call or use'
+1757936240330:x "quanto é 1 + 2"
+1757936412456:x 'quanto ´1 + 1'
+1757936570399:x 'quanto é 1+1'
+1757936610198:stacktrace
+1757936770511:agents
+1757936800144:x 'parse this pdf to string: path= www.pdf.com	\n'
+1757945885432:agents
+1757946024680:x 'with this path, create a contract for me | path: C:\\Users\\vinicius\\Documents\\developer\\smart-prision\\email-agent\\src\\main\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757946252660:x 'create a contract with the data of this pdf: C:\\Users\\vinicius\\Documents\\developer\\smart-prision\\email-agent\\src\\main\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757946889105:x 'quanto é 1 + 2'
+1757946959543:x 'quanto é 1 + 1'
+1757946975473:x 'create a contract with the data of this pdf: C:\\Users\\vinicius\\Documents\\developer\\smart-prision\\email-agent\\src\\main\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757947014249:x 'create a contract with the data of this pdf: C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757969971377:x 'create a contract with the data of this pdf: "C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf"'
+1757970054046:x 'create a contract with the data of this pdf: C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757970825392:help
+1757970831049:goals
+1757970850187:actiobs
+1757970853747:actions
+1757971136988:x 'create a contract with the data of this pdf: C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757971161537:x 'create a contrato'
+1757971217882:help
+1757971240129:chat
+1757971287311:stacktrace
+1757971469290:x 'create a contract based on this pdf: \\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757971970476:x 'create a contract with the data of this pdf: C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'x 'create a contract with the data of this pdf: C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757971982610:x 'create a contract with the data of this pdf: C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\Resoluções - Exercícios FMC2 PROVA.pdf'
+1757972658750:x 'crie um Contrato baseado neste pdf: "C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\\\Contrato.pdf"'
+1757974136184:}], Contrato{empresa=Empresa[razaoSocial=Empresa Ramo LTDA, nomeFantasia=Empresa Fantasia, cnpj=73672828000160, telefone=5584999999999, email=contato@empresa.com, responsavel=Fulano de Tal, logradouro=Rua das Flores, numero=123, complemento=Sala 5, bairro=Centro, cep=59000000, cidade=Natal, uf=RN, observacoes=Empresa com contrato ativo no sistema.], orgaoId=45, valorCentavosContrato=1500000, dataInicioVigencia='2025-09-01', dataFimVigencia='2026-08-31', localTrabalho='Unidade X - RN', tipoTrabalho='CARGA_HORARIA', cargaHoraria='OITO_HORAS', objetoContrato='Prestação de serviços de limpeza e conservação predial.', vagas=[Vaga[funcaoId=10, quantidade=5, remuneracaoCentavos=180000, descricaoFuncoes=Atividades de limpeza em áreas comuns, apoio em conservação predial.], Vaga[funcaoId=20, quantidade=2, remuneracaoCentavos=250000, descricaoFuncoes=Supervisão das equipes de limpeza, elaboração de relatórios de atividades.]]}, Okx 'crie um Contrato baseado neste pdf: "C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\\\Contrato.pdf"'
+1757974142848:help
+1757974144642:x 'crie um Contrato baseado neste pdf: "C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\\\Contrato.pdf"'
+1757974531926:55119876
+1757974535080:gelp
+1757974536525:help
+1757974543394:x 'crie um Contrato baseado neste pdf: "C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\\\Contrato.pdf"'
+1758028275363:agents
+1758032179952:x 'crie uma lista de vagas com os dados deste pdf: "C:\\\\Users\\\\vinicius\\\\Documents\\\\developer\\\\smart-prision\\\\email-agent\\\\src\\\\main\\\\resources\\\\Contrato.pdf"'
+1758032983908:x 'crie uma lista de vagas com os dados deste pdf: "classpath:Contrato.pdf"'
+1758033148975:x 'crie uma lista de vagas com os dados deste pdf: "Contrato.pdf"'
+1758033408566:stacktrace
+1758033564360:x 'crie uma lista de vagas com os dados deste pdf: "Contrato.pdf"'
+1758104274755:var result = context.ai()
+1758104286220:x 'crie uma lista de vagas com os dados deste pdf: "Contrato.pdf"'
+1758104805662:help
+1758104809616:actions
+1758105279033:x 'crie uma lista de vagas com os dados deste pdf: "Contrato.pdf"'
+1758127253994:x 'get the company/enterprise(Empresa) that will provide vacancies for inmates'
+1758127404437:x 'get the company/enterprise(Empresa) that will provide vacancies for inmates with this pdf "ContratoES.pdf"'
+1758128251449:x 'return to me the company/enterprise(Empresa) that will provide vacancies for inmates with this pdf "ContratoES.pdf", just find the Empresa'
+1758128438050:x 'get the company/enterprise(Empresa) that will provide vacancies for inmates with this pdf "ContratoES.pdf"'
+1758130249919:x 'with this pdf: "ContratoES.pdf" make for me a contract(Contrato) and check if this is ok'
+1758131442883:clear
+1758131791611:x 'with this pdf: "ContratoES.pdf" create a contract(Contrato) and check if this is ok'
+1758131923092:stacktrace
+1758131975000:x 'with this pdf: "ContratoES.pdf" create a contract(Contrato) and check if this is ok'
+1758134470880:15:39:08.331 [main] INFO  LlmDataBindingProperties - LLM invocation imd.urfn.br.emailagent.AgentTest.finalCheck-imd.urfn.br.emailagent.domain.FinalCheck: Retry attempt 6 of 10 due to: Invalid LLM return when expecting imd.urfn.br.emailagent.domain.FinalCheck: Root cause=com.fasterxml.jackson.databind.exc.ValueInstantiationException: Cannot construct instance of `imd.urfn.br.emailagent.domain.Contrato`, problem: Cannot invoke "imd.urfn.br.emailagent.domain.Data.orgaoId()" because "data" is null
+1758134481493:x 'with this pdf: "ContratoES.pdf" create a contract(Contrato) and check if this is ok'
+1758193655710:with this pdf: "ContratoES.pdf" create a contract(Contrato) and check if this is ok'\n\n\nexit\nx\n'
+1758193871331:x '\nx 'with this pdf: "ContratoES.pdf" create a contract(Contrato) and check if this is ok'\n\n'
+1758193880742:clear
+1758193884013:help
+1758194103085:x 'with this pdf: "ContratoES.pdf" create a contract(Contrato) and check if this is ok'
